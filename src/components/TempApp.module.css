@@ -1,0 +1,39 @@
+.main_box{
+    text-align: center;
+    border-radius: 4%;
+    padding: 1% 1%;
+    margin: 2% auto;
+    background: #f5f5dc;
+    width: 400px;
+    filter: drop-shadow(14px 10px 4px lightgrey);
+}
+
+
+.inputField{
+    padding: 3% 3%;
+    margin: 4%;
+    border-radius: 12px;
+}
+
+.info{
+    width: 400px;
+    background: white;
+    border-radius: 15px;
+    padding: 0.1% 0px;
+}
+
+h2{
+    font-size: 27px;
+    color: 	#696969;
+}
+h1{
+    font-size: 50px;
+}
+
+h4{
+    color: grey;
+}
+
+.tempmin_max{
+    color: darkgrey;
+}
